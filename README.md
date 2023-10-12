@@ -1,10 +1,21 @@
 # IBM-Project-22552-1659853781
-- Madhulika Indraganti and Kavya AP <br>
-Statistical Machine Learning Approaches to Liver Disease Prediction
 
-Liver diseases avert the normal function of the liver. Mainly due to a large amount of alcohol consumption liver disease arises. Early prediction of liver disease using classification algorithms is a productive task that can help doctors to diagnose the disease within a short duration of time. Discovering the existence of liver disease at an early stage is a complex task for doctors. The main objective of this project is to analyze the parameters of various classification algorithms and compare their predictive accuracies to find the best classifier for determining liver disease.
+<u><b>Statistical Machine Learning Approaches to Liver Disease Prediction</u></b> - Madhulika I and Kavya AP
 
-This Project examines data from liver patients concentrating on relationships between a critical list of liver enzymes, proteins, age, and gender using them to try and predict the likeliness of liver disease. Here we are building a model by applying various machine learning algorithms to find the best accurate model. And integrate into Flask-based web applications. Users can predict the disease by entering parameters in the web application.
+📊 **Introduction:**
+Liver diseases disrupt the normal functioning of the liver, often resulting from excessive alcohol consumption. Early prediction of liver disease through classification algorithms is a valuable tool for doctors, facilitating swift diagnoses. Detecting liver disease in its early stages is a complex challenge for medical professionals. This project aims to analyze various classification algorithms, assess their predictive accuracies, and identify the best classifier for early liver disease detection.
 
-Technical Architecture:
+📑 **Data Analysis and Objective:**
+In this project, we scrutinize data from liver patients, focusing on the interplay of vital liver enzymes, proteins, age, and gender. These parameters are used to predict the likelihood of liver disease. Our goal is to construct a robust model by implementing a range of machine learning algorithms, with the aim of finding the most accurate predictive model.
+
+🤖 **Machine Learning Implementation:**
+We employ multiple machine learning algorithms to create and evaluate predictive models. By applying these algorithms to the dataset, we aim to determine the optimal model for liver disease prediction.
+
+🌐 **Web Application Integration:**
+To make this predictive tool accessible to users, we integrate the best-performing model into a Flask-based web application. Users can conveniently input their relevant parameters into the application for liver disease prediction.
+
+This project combines statistical machine learning techniques, data analysis, and web application development to enhance the early detection of liver disease, providing a valuable resource for medical professionals and individuals concerned about their liver health.
+
+
+<b>Technical Architecture:</b>
 ![image](https://user-images.githubusercontent.com/72027297/202115643-0c91cd4d-f7af-4c36-b82d-75196c700f60.png)
